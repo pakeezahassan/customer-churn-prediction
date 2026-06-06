@@ -66,3 +66,12 @@ Telecommunications companies face significant revenue loss from customer churn. 
 2. **Contract Type Matters:** Month-to-month contracts have 42% churn vs 11% for 2-year contracts
 3. **Monthly Charges:** Higher charges correlate with increased churn
 4. **Service Bundles:** Customers with more services show lower churn
+
+## 👤 Author
+
+**[PAKEEZA HASSAN]**  
+📧 **Email:** pakeezahassan32@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/pakeeza-hassan  
+🐙 **GitHub:** https://github.com/pakeezahassan/
+
+
